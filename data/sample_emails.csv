@@ -1,0 +1,101 @@
+sender,subject,body,recipient_count,external_recipient_count,attachment_count,attachment_size_mb,hour,emails_last_hour,new_recipient,label
+employee28@company.local,Team status,Please review the attached project notes before our internal meeting.,1,0,0,1.8,9,2,0,0
+employee35@company.local,Urgent data export,Please send the confidential customer database and account numbers to this personal address.,1,1,2,44.4,1,25,0,1
+employee22@company.local,Design review,Here is the agenda and the action items from today's team discussion.,8,0,0,6.1,10,7,0,0
+employee17@company.local,Confidential files,I am exporting the employee records and payroll file. Keep this outside the company system.,2,2,1,14.7,1,19,1,1
+employee13@company.local,Weekly project update,Can we schedule a short call to discuss the delivery timeline?,2,1,0,4.4,18,6,0,0
+employee30@company.local,Urgent data export,Please send the confidential customer database and account numbers to this personal address.,2,2,1,69.6,1,20,1,1
+employee11@company.local,Team status,The updated report is ready for the project team. Please share feedback.,3,0,1,1.7,12,2,0,0
+employee21@company.local,Source code archive,I am exporting the employee records and payroll file. Keep this outside the company system.,2,2,4,27.4,21,30,0,1
+employee14@company.local,Weekly project update,Here is the agenda and the action items from today's team discussion.,1,0,1,2.1,11,6,0,0
+employee28@company.local,Payroll and employee data,Please transfer the source code and trade secret documents to my external account.,4,2,3,18.1,21,25,1,1
+employee8@company.local,Sprint planning,Can we schedule a short call to discuss the delivery timeline?,6,0,0,4.1,9,1,0,0
+employee1@company.local,Customer records backup,I am exporting the employee records and payroll file. Keep this outside the company system.,4,1,4,35.5,23,24,1,1
+employee1@company.local,Team status,Please review the attached project notes before our internal meeting.,5,0,0,2.3,10,8,0,0
+employee10@company.local,Confidential files,I need to share the confidential records with a new external recipient urgently.,2,1,3,68.6,19,27,0,1
+employee16@company.local,Invoice review,Here is the agenda and the action items from today's team discussion.,1,0,1,0.2,13,5,0,0
+employee9@company.local,Urgent data export,I am exporting the employee records and payroll file. Keep this outside the company system.,5,1,1,60.7,1,25,0,1
+employee35@company.local,Team status,Can we schedule a short call to discuss the delivery timeline?,3,0,2,7.0,14,4,0,0
+employee15@company.local,Customer records backup,"Attached is a backup containing credentials, private key details and customer information.",4,3,4,72.8,23,11,0,1
+employee15@company.local,Weekly project update,The updated report is ready for the project team. Please share feedback.,1,0,2,1.8,9,1,0,0
+employee35@company.local,Urgent data export,Please send the confidential customer database and account numbers to this personal address.,3,1,5,25.1,21,23,0,1
+employee7@company.local,Meeting notes,Attached is the approved presentation for the internal review.,8,0,1,6.5,11,2,0,0
+employee4@company.local,Payroll and employee data,"Attached is a backup containing credentials, private key details and customer information.",4,4,4,70.2,1,29,0,1
+employee28@company.local,Design review,The updated report is ready for the project team. Please share feedback.,2,0,0,1.5,15,3,0,0
+employee35@company.local,Customer records backup,"Attached is a backup containing credentials, private key details and customer information.",4,2,1,39.9,19,11,0,1
+employee4@company.local,Weekly project update,Please review the attached project notes before our internal meeting.,4,0,1,3.9,11,7,0,0
+employee32@company.local,Customer records backup,Please transfer the source code and trade secret documents to my external account.,1,1,3,74.7,23,17,1,1
+employee21@company.local,Meeting notes,Here is the agenda and the action items from today's team discussion.,5,0,0,4.6,16,1,0,0
+employee33@company.local,Urgent data export,Please send the confidential customer database and account numbers to this personal address.,5,4,5,74.2,19,13,0,1
+employee16@company.local,Weekly project update,Here is the agenda and the action items from today's team discussion.,2,0,2,6.9,14,2,0,0
+employee17@company.local,Source code archive,I need to share the confidential records with a new external recipient urgently.,1,1,4,55.3,19,24,1,1
+employee30@company.local,Meeting notes,The updated report is ready for the project team. Please share feedback.,4,0,1,1.0,18,5,0,0
+employee33@company.local,Confidential files,Please send the confidential customer database and account numbers to this personal address.,1,1,5,79.9,1,10,0,1
+employee35@company.local,Invoice review,Here is the agenda and the action items from today's team discussion.,6,0,0,3.0,10,8,0,0
+employee17@company.local,Confidential files,I need to share the confidential records with a new external recipient urgently.,5,1,5,29.6,21,11,0,1
+employee17@company.local,Weekly project update,Please review the attached project notes before our internal meeting.,3,0,1,4.8,13,4,0,0
+employee22@company.local,Source code archive,Please transfer the source code and trade secret documents to my external account.,3,1,1,53.7,22,9,0,1
+employee8@company.local,Meeting notes,The updated report is ready for the project team. Please share feedback.,3,1,2,5.6,16,1,0,0
+employee3@company.local,Urgent data export,I am exporting the employee records and payroll file. Keep this outside the company system.,5,1,3,49.9,2,21,0,1
+employee23@company.local,Invoice review,The updated report is ready for the project team. Please share feedback.,1,0,0,5.5,18,2,0,0
+employee12@company.local,Source code archive,Please transfer the source code and trade secret documents to my external account.,5,2,2,70.3,2,21,0,1
+employee3@company.local,Team status,The updated report is ready for the project team. Please share feedback.,7,0,1,1.3,9,7,0,0
+employee13@company.local,Payroll and employee data,I am exporting the employee records and payroll file. Keep this outside the company system.,2,2,3,30.0,2,15,0,1
+employee35@company.local,Design review,The updated report is ready for the project team. Please share feedback.,5,0,1,2.8,16,7,0,0
+employee28@company.local,Confidential files,Please send the confidential customer database and account numbers to this personal address.,1,1,2,49.8,22,9,0,1
+employee3@company.local,Invoice review,The updated report is ready for the project team. Please share feedback.,7,0,1,7.2,11,5,0,0
+employee21@company.local,Payroll and employee data,Please send the confidential customer database and account numbers to this personal address.,5,5,2,34.2,1,29,1,1
+employee9@company.local,Team status,Please review the attached project notes before our internal meeting.,5,0,2,3.3,14,5,0,0
+employee20@company.local,Customer records backup,Please transfer the source code and trade secret documents to my external account.,4,2,5,49.0,23,25,0,1
+employee33@company.local,Invoice review,Here is the agenda and the action items from today's team discussion.,7,0,1,3.5,18,4,0,0
+employee16@company.local,Payroll and employee data,I am exporting the employee records and payroll file. Keep this outside the company system.,1,1,5,55.8,19,18,0,1
+employee5@company.local,Team status,The updated report is ready for the project team. Please share feedback.,4,0,0,0.2,11,8,0,0
+employee7@company.local,Payroll and employee data,Please transfer the source code and trade secret documents to my external account.,5,2,4,43.6,2,12,0,1
+employee9@company.local,Design review,Here is the agenda and the action items from today's team discussion.,3,1,0,4.5,9,8,0,0
+employee29@company.local,Payroll and employee data,I need to share the confidential records with a new external recipient urgently.,5,5,3,76.4,23,27,1,1
+employee16@company.local,Meeting notes,Can we schedule a short call to discuss the delivery timeline?,8,0,0,6.7,12,8,0,0
+employee9@company.local,Confidential files,Please transfer the source code and trade secret documents to my external account.,1,1,2,27.6,22,25,0,1
+employee22@company.local,Meeting notes,Here is the agenda and the action items from today's team discussion.,7,0,2,1.7,14,7,0,0
+employee25@company.local,Source code archive,Please transfer the source code and trade secret documents to my external account.,4,1,2,68.0,23,26,0,1
+employee32@company.local,Design review,Please review the attached project notes before our internal meeting.,6,0,1,6.8,14,4,0,0
+employee11@company.local,Customer records backup,"Attached is a backup containing credentials, private key details and customer information.",4,4,1,36.0,21,29,1,1
+employee28@company.local,Design review,Here is the agenda and the action items from today's team discussion.,1,1,2,4.5,8,2,0,0
+employee22@company.local,Customer records backup,Please transfer the source code and trade secret documents to my external account.,2,1,3,35.3,2,22,1,1
+employee23@company.local,Design review,The updated report is ready for the project team. Please share feedback.,7,0,0,3.8,16,1,0,0
+employee16@company.local,Customer records backup,Please send the confidential customer database and account numbers to this personal address.,1,1,2,22.4,1,27,0,1
+employee8@company.local,Meeting notes,Can we schedule a short call to discuss the delivery timeline?,2,0,1,5.6,13,3,0,0
+employee5@company.local,Customer records backup,"Attached is a backup containing credentials, private key details and customer information.",1,1,3,49.5,23,20,0,1
+employee23@company.local,Sprint planning,Here is the agenda and the action items from today's team discussion.,2,0,2,4.8,9,1,0,0
+employee7@company.local,Source code archive,Please transfer the source code and trade secret documents to my external account.,3,1,5,54.6,1,21,1,1
+employee35@company.local,Design review,The updated report is ready for the project team. Please share feedback.,8,0,1,1.4,16,5,0,0
+employee16@company.local,Payroll and employee data,Please transfer the source code and trade secret documents to my external account.,4,3,3,69.3,1,16,1,1
+employee32@company.local,Design review,Attached is the approved presentation for the internal review.,7,0,0,4.0,13,3,0,0
+employee34@company.local,Customer records backup,"Attached is a backup containing credentials, private key details and customer information.",3,2,3,71.4,21,16,0,1
+employee32@company.local,Meeting notes,Please review the attached project notes before our internal meeting.,4,1,1,4.4,11,8,0,0
+employee31@company.local,Payroll and employee data,Please send the confidential customer database and account numbers to this personal address.,1,1,2,37.1,2,17,1,1
+employee18@company.local,Sprint planning,Attached is the approved presentation for the internal review.,6,1,2,4.4,13,8,0,0
+employee13@company.local,Confidential files,"Attached is a backup containing credentials, private key details and customer information.",2,1,2,30.7,21,25,0,1
+employee24@company.local,Meeting notes,Can we schedule a short call to discuss the delivery timeline?,5,0,0,6.7,12,4,0,0
+employee9@company.local,Customer records backup,"Attached is a backup containing credentials, private key details and customer information.",1,1,3,11.3,1,25,1,1
+employee22@company.local,Team status,Can we schedule a short call to discuss the delivery timeline?,2,0,2,2.3,15,8,0,0
+employee4@company.local,Customer records backup,Please send the confidential customer database and account numbers to this personal address.,3,2,1,67.2,23,23,0,1
+employee34@company.local,Meeting notes,Here is the agenda and the action items from today's team discussion.,5,0,0,0.9,14,4,0,0
+employee7@company.local,Payroll and employee data,Please transfer the source code and trade secret documents to my external account.,4,3,5,79.3,22,26,0,1
+employee11@company.local,Meeting notes,Here is the agenda and the action items from today's team discussion.,5,0,0,1.9,16,2,0,0
+employee30@company.local,Urgent data export,Please transfer the source code and trade secret documents to my external account.,4,4,3,10.4,22,30,1,1
+employee18@company.local,Weekly project update,Here is the agenda and the action items from today's team discussion.,5,0,1,0.9,11,3,0,0
+employee8@company.local,Customer records backup,Please send the confidential customer database and account numbers to this personal address.,1,1,3,50.8,19,17,1,1
+employee3@company.local,Design review,The updated report is ready for the project team. Please share feedback.,7,0,2,4.3,15,2,0,0
+employee18@company.local,Payroll and employee data,"Attached is a backup containing credentials, private key details and customer information.",5,3,1,14.6,21,26,0,1
+employee28@company.local,Sprint planning,Please review the attached project notes before our internal meeting.,3,1,2,5.2,12,3,0,0
+employee22@company.local,Payroll and employee data,Please send the confidential customer database and account numbers to this personal address.,4,3,4,32.0,21,11,0,1
+employee17@company.local,Design review,Can we schedule a short call to discuss the delivery timeline?,5,1,2,0.3,9,6,0,0
+employee32@company.local,Confidential files,Please send the confidential customer database and account numbers to this personal address.,4,1,5,41.3,1,14,1,1
+employee32@company.local,Team status,Can we schedule a short call to discuss the delivery timeline?,1,0,1,4.4,12,8,0,0
+employee6@company.local,Urgent data export,Please send the confidential customer database and account numbers to this personal address.,5,2,2,30.4,1,25,1,1
+employee33@company.local,Meeting notes,Please review the attached project notes before our internal meeting.,8,0,2,6.7,15,5,0,0
+employee33@company.local,Confidential files,Please transfer the source code and trade secret documents to my external account.,4,4,2,40.9,2,20,0,1
+employee1@company.local,Team status,Here is the agenda and the action items from today's team discussion.,2,0,1,2.7,16,5,0,0
+employee23@company.local,Confidential files,"Attached is a backup containing credentials, private key details and customer information.",5,5,4,70.3,23,25,1,1
+employee15@company.local,Invoice review,Attached is the approved presentation for the internal review.,7,1,1,7.0,11,7,0,0
+employee32@company.local,Payroll and employee data,Please send the confidential customer database and account numbers to this personal address.,3,3,4,58.8,23,20,0,1
